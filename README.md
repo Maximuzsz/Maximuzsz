@@ -10,8 +10,8 @@ Back-End Developer
 ### Activity
 <div align="display: inline_block">
   <a href="https://github.com/maximuzsz">
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=Maximuzsz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximuzsz&layout=compact&langs_count=6&theme=dark"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=Maximuzsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximuzsz&layout=compact&theme=dracula"/>
 </div><br>
 
 ### Skills
