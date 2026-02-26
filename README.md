@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋 I'm Paulo Roberto</h1>
   <h3>Full-Stack Software Engineer</h3>
-  <p><strong>NestJS • Flutter • Scalable Systems • Cloud Architecture</strong></p>
+  <p><strong>NestJS • Flutter • Scalable Systems • Clean Architecture</strong></p>
   <p>🇧🇷 Based in Brazil</p>
 </div>
 
@@ -9,39 +9,35 @@
 
 ## 🚀 About Me
 
-I’m a Full-Stack Developer passionate about building **scalable, high-performance applications** and designing clean, maintainable architectures.
-
-My main focus areas:
+I build scalable and high-performance applications focused on:
 
 - 🏢 Business Management Systems  
-- ☀️ Solar Energy Ecosystems  
-- 🎵 Music Distribution & Analytics Platforms  
-- 📊 Data-driven Backoffice & Financial Systems  
+- ☀️ Solar Energy Platforms  
+- 🎵 Music Distribution & Analytics Systems  
+- 📊 Financial & Backoffice Dashboards  
 
-I enjoy transforming complex business rules into efficient, well-structured systems using modern technologies and best engineering practices.
+Passionate about clean architecture, modular systems and transforming complex business rules into structured, maintainable solutions.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Skills
 
-- API Design with **NestJS**
-- Clean Architecture & Modular Systems
-- Database Modeling with **Prisma ORM**
-- Mobile Development with **Flutter**
-- Frontend Interfaces with **React**
-- Financial & Metrics Processing Systems
-- Authentication & Secure Systems (JWT, OAuth)
+- API Design with NestJS
+- Modular Architecture & Clean Code
+- Database Modeling (Prisma ORM & PostgreSQL)
+- Mobile Apps with Flutter
+- Frontend with React
+- Authentication (JWT & OAuth)
+- Metrics & Financial Data Processing
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,prisma,python,cs,flutter,dart,react,html,css,postgres&theme=dark" />
   </a>
-
 </div>
 
 ---
@@ -49,20 +45,25 @@ I enjoy transforming complex business rules into efficient, well-structured syst
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Maximuzsz">
-    <img height="180" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats.vercel.app/api?username=Maximuzsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximuzsz&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-  </a>
+
+  <!-- Top Languages (mais estável) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximuzsz&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+
+  <br/>
+
+  <!-- Streak Stats (mais confiável) -->
+  <img height="170" src="https://streak-stats.demolab.com?user=Maximuzsz&theme=dracula&hide_border=true"/>
+
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving system performance & scalability
-- Building financial and analytics dashboards
-- Designing clean service architectures (NestJS + Prisma)
-- Expanding Flutter cross-platform applications
+- System scalability & performance optimization  
+- Financial and analytics dashboards  
+- Clean service architecture (NestJS + Prisma)  
+- Cross-platform mobile applications  
 
 ---
 
