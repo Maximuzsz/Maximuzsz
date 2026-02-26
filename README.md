@@ -50,7 +50,7 @@ I enjoy transforming complex business rules into efficient, well-structured syst
 
 <div align="center">
   <a href="https://github.com/Maximuzsz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Maximuzsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats.vercel.app/api?username=Maximuzsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximuzsz&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
   </a>
 </div>
